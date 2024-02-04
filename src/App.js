@@ -8,7 +8,7 @@ import PastAemWork from './components/PastAemWork';
 import PastReactWork from './components/PastReactWork';
 import { Footer } from './components/footer';
 import PastAEMComponents from './components/PastAEMComponents';
-import { useState } from 'react';
+
 
 function App() {
 
@@ -19,7 +19,7 @@ function App() {
     <div className='app'>
       <Header />
       <Routes>
-        <Route path='/' element={<Home />} />
+        <Route exact path='/' element={<Home />} />
         <Route path='pastaemwork' element={<PastAemWork />} />
         <Route path='pastreactwork' element={<PastReactWork />} />
         <Route path='components' element={<PastAEMComponents />} />
