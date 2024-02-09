@@ -20,13 +20,13 @@ import '../assets/style/ProjectsGrid.css'
 export default function AEMcomponentList() {
     return (<div className='componentList section-wrapper '>
         <div className='card-wrapper'>
-            <h2>Core Components</h2><h4>Below is the list of core compoents I worked on</h4>
+            <div className='side-by-side'><div className='alignleft para'>Below is the list of core compoents I worked on</div></div>
             <div className='componentList-grid'>
                 <div className='t-icon'><img src={Image1} alt="Display a button or anchor button" /><div className='sec_title'><h3>Button</h3> Display a button or anchor button</div></div>
                 <div className='t-icon'><img src={Image2} alt="Separator" /><div className='sec_title'><h3>Separator</h3>Display a section divider</div></div>
                 <div className='t-icon'><img src={Image3} alt="Container" /><div className='sec_title'><h3>Container</h3>Group and layout components</div></div>
                 <div className='t-icon'><img src={Image4} alt="Teaser" /><div className='sec_title'><h3>Teaser</h3>Link and image and text</div></div>
-                <div className='t-icon'><img src={Image5} alt="Image" /><div className='sec_title'><h3>Image</h3>Display an image asset</div></div>
+                <div className='t-icon'><img src={Image5} alt="comp" /><div className='sec_title'><h3>Image</h3>Display an image asset</div></div>
                 <div className='t-icon'><img src={Image6} alt="Text" /><div className='sec_title'><h3>Text</h3>Display rich text paragaraph</div></div>
                 <div className='t-icon'><img src={Image7} alt="Embed" /><div className='sec_title'><h3>Embed</h3>Embed third-part widget</div></div>
                 <div className='t-icon'><img src={Image8} alt="Accordion" /><div className='sec_title'><h3>Accordion</h3>Toggle panels of related content</div></div>
@@ -43,6 +43,6 @@ export default function AEMcomponentList() {
             </div>
         </div>
 
-    </div>
+    </div >
     )
 }

@@ -9,7 +9,7 @@ export const Herobanner = () => {
         <div className='hero-banner_text-content' >
           <div className='hero-banner_title-wrapper'>
             <div className='hero-banner_eyebrow'>Crafting Seamless Experiences</div>
-            <h1> The Journey of a UX/UI Developer</h1>
+            <h2> The Journey of a UX/UI Developer</h2>
           </div>
         </div>
       </div>

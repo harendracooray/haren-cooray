@@ -17,14 +17,13 @@ function App() {
 
   return (
     <div className='app'>
-      <Header />
-      <Routes>
-        <Route exact path='/' element={<Home />} />
+      <Home />
+      {/* <Routes>
+        <Route path='/' element={<Home />} />
         <Route path='pastaemwork' element={<PastAemWork />} />
         <Route path='pastreactwork' element={<PastReactWork />} />
         <Route path='components' element={<PastAEMComponents />} />
-      </Routes>
-      <Footer />
+      </Routes> */}
     </div>
   );
 }

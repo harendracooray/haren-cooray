@@ -20,7 +20,6 @@ export default function Skills() {
     return (
         <div className='skills section-wrapper '>
             <div className='card-wrapper container'>
-                <h2>Technologies Learned</h2>
                 <div className='parentgrid'>
                     <div className='t-icon'><img src={Image1} alt="Html" /><div>HTML</div></div>
                     <div className='t-icon'><img src={Image2} alt="Css" /><div>CSS</div></div>

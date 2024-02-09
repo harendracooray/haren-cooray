@@ -1,0 +1,182 @@
+.accordion {
+    width: 100%;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+@media (min-width: 1200px) {
+    .accordion {
+        width: 1140px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+.body__container .accordion-button {
+    padding: 8px;
+}
+
+.accordion-button::before {
+    content: "";
+    height: 57px;
+    width: 57px;
+    position: absolute;
+    left: -57px;
+}
+
+/* button[aria-expanded="true"]{
+    background-color: #42DCA3;
+  } */
+
+.body__container .accordion .accordion-item:first-child .accordion-button:before {
+    background-color: #c0ecd9;
+    top: 10px;
+    background-image: url('../img/person.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 60%;
+}
+
+.body__container .accordion .accordion-item:nth-child(2) .accordion-button:before {
+    background-color: #9bdda9;
+    background-position: center;
+    background-image: url('../img/quote.png');
+    background-repeat: no-repeat;
+    background-size: 60%;
+}
+
+.body__container .accordion .accordion-item:nth-child(3) .accordion-button:before {
+    background-color: #6ac47d;
+    background-image: url('../img/skill.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 60%;
+}
+
+.body__container .accordion .accordion-item:nth-child(4) .accordion-button:before {
+    background-color: #49b675;
+    background-image: url('../img/briefcase.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 60%;
+}
+
+.body__container .accordion .accordion-item:nth-child(5) .accordion-button:before {
+    background-color: #1c974d;
+    background-image: url('../img/resume.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 60%;
+}
+
+
+.body__container .accordion-button {
+    background-color: #ffffff;
+    display: flex;
+    padding: 0;
+    min-height: 56px;
+}
+
+.body__container .accordion-button:not(.collapsed) {
+    background-color: white;
+    box-shadow: none;
+}
+
+.body__container .accordion-button::after {
+    flex-shrink: unset;
+    content: unset;
+    width: 0;
+    height: 0;
+}
+
+.body__container .accordion-button .accordion-btn {
+    margin-left: auto;
+}
+
+.accordion .accordion-item button[aria-expanded="true"] .accordion-btn {
+    background-color: #cccccc;
+}
+
+.accordion .accordion-item button[aria-expanded="true"] .chevron-down {
+    color: white;
+}
+
+
+.body__container .accordion-button>h2 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #727272;
+
+}
+
+.accordion .nav-tabs .nav-link {
+    color: #80ba8a;
+    font-weight: 600;
+    margin: 0 2px;
+    border-left: 1px solid #e2f7ec;
+    border-radius: unset;
+    margin-bottom: 5px;
+    padding: 4px 10px;
+}
+
+.accordion .nav-tabs .nav-link.active {
+    color: #ffffff;
+    background-color: #80ba8a;
+    border-radius: 4px;
+}
+
+.accordion .accordion-item:first-child button .accordiontitle {
+    background: linear-gradient(to left, white 51%, #c0ecd9 49%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    transition: all 1s ease;
+    position: absolute;
+    top: 10px;
+    color: #ffffff;
+}
+
+.accordion .accordion-item:nth-child(2) button .accordiontitle {
+    background: linear-gradient(to left, white 51%, #9bdda9 49%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    transition: all 1s ease;
+}
+
+.accordion .accordion-item:nth-child(3) button .accordiontitle {
+    background: linear-gradient(to left, white 51%, #6ac47d 49%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    transition: all 1s ease;
+}
+
+.accordion .accordion-item:nth-child(4) button .accordiontitle {
+    background: linear-gradient(to left, white 51%, #49b675 49%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    transition: all 1s ease;
+}
+
+.accordion .accordion-item:nth-child(5) button .accordiontitle {
+    background: linear-gradient(to left, white 51%, #1c974d 49%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    transition: all 1s ease;
+}
+
+.accordion button .accordiontitle {
+    font-size: 20px;
+    font-weight: 600;
+    color: #727272;
+    padding-left: 10px;
+    padding-right: 15px;
+    height: 57px;
+    display: flex;
+    align-items: center;
+}
+
+
+
+.accordion .accordion-item button[aria-expanded="true"] .accordiontitle {
+    background-position: left bottom;
+    color: white;
+}
