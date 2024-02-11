@@ -31,7 +31,6 @@ export default function PastReactWork() {
       <div className='projects project_1'>
         <div className='column2 Project_details '>
           <div className='project-title'><h2>React Components</h2></div>
-
           <MovieComp></MovieComp>
 
         </div>

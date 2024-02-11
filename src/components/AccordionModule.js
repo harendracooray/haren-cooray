@@ -22,14 +22,14 @@ const AccordionModule = () => {
           <About />
         </Accordion.Body>
       </Accordion.Item>
-      <Accordion.Item eventKey="1">
+      {/*   <Accordion.Item eventKey="1">
         <Accordion.Header><div className="accordiontitle">MY QUOTE</div><div className='accordion-btn'>
           <i class="chevron-down"></i>
         </div></Accordion.Header>
         <Accordion.Body>
           <Herobanner />
         </Accordion.Body>
-      </Accordion.Item>
+      </Accordion.Item> */}
       <Accordion.Item eventKey="2">
         <Accordion.Header><div className="accordiontitle">TECHNOLOGIES</div><div className='accordion-btn'>
           <i class="chevron-down"></i>

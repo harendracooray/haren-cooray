@@ -68,10 +68,10 @@ function Resume() {
                 <div className="resume_period">
                   <span className="period_from">01.2019 - </span>
                   <span className="period_to">06.2018</span>
-                  <span className="period_to period_present">present</span>
+
                 </div>
               </div>
-              <h5 className="post_subtitle">SSENIOR FRONT END DEVERLOPER</h5>
+              <h5 className="post_subtitle">SENIOR FRONT END DEVERLOPER</h5>
             </div>
             <div className="post_body resume_post_body">
               <ul>
@@ -92,7 +92,7 @@ function Resume() {
                 <div className="resume_period">
                   <span className="period_from">05.2018 - </span>
                   <span className="period_to">01.2018</span>
-                  <span className="period_to period_present">present</span>
+
                 </div>
               </div>
               <div className="post_description" >Ally Financial Inc. (NYSE: ALLY) is a leading digital financial services company, NMLS ID 3015. Ally Bank, the company's direct banking subsidiary, offers an array of deposit, personal lending and mortgage products and services.</div>

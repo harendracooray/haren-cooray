@@ -62,8 +62,8 @@ export default function PastAemWork() {
             </div>
             <div className='row pgriditem4'>
               <p className='component_description'> Hero component is a flexible but advanced component that can combine images, colours, text, links and calls to action. Used for splashy home page banners, the hero can be used to separate sections on landing pages, or for temporary or promotional content. </p>
-              <p className='component_description'> Look and feel and layout/orientaion of content can be changed by configuring via Daialog and vis STYLE system </p>
-
+              {/* <p className='component_description'> Look and feel and layout/orientaion of content can be changed by configuring via Daialog and vis STYLE system </p>
+ */}
 
             </div>
             {/* <div className='pgriditem4'>
@@ -89,8 +89,6 @@ export default function PastAemWork() {
             </div>
             <div className='row pgriditem4'>
               <p className='component_description'> A card is used as a call to action (CTA) to drive traffic to different web pages. Though each card represents a single idea, we typically use cards in groups of at least two. the cards within a card deck should all link to the same type of pages (e.g., news stories). </p>
-              <p className='component_description'> Basically these cars use css <b>Grid layout</b> you can configure to have more than 3 cards also configure the arrengment of cards via configuratin dialog.</p>
-
 
             </div>
             {/* <div className='pgriditem4'>
@@ -117,8 +115,6 @@ export default function PastAemWork() {
             </div>
             <div className='row pgriditem4'>
               <p className='component_description'> A card is used as a call to action (CTA) to drive traffic to different web pages. Though each card represents a single idea, we typically use cards in groups of at least two. the cards within a card deck should all link to the same type of pages (e.g., news stories). </p>
-              <p className='component_description'> Basically these cars use css <b>Grid layout</b> you can configure to have more than 3 cards also configure the arrengment of cards via configuratin dialog.</p>
-
 
             </div>
             {/* <div className='pgriditem4'>
@@ -144,9 +140,7 @@ export default function PastAemWork() {
               </div>
             </div>
             <div className='row pgriditem4'>
-              <p className='component_description'> A card is used as a call to action (CTA) to drive traffic to different web pages. Though each card represents a single idea, we typically use cards in groups of at least two. the cards within a card deck should all link to the same type of pages (e.g., news stories). </p>
-              <p className='component_description'> Basically these cars use css <b>Grid layout</b> you can configure to have more than 3 cards also configure the arrengment of cards via configuratin dialog.</p>
-
+              <p className='component_description'> this is a client interactive deal bundle calculation component  </p>
 
             </div>
             {/* <div className='pgriditem4'>

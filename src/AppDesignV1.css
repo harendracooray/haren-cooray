@@ -132,7 +132,7 @@ footer{
 }
 
 footer .copyrights{
-  width: 1060px;
+  max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
   text-align: right;
@@ -150,10 +150,9 @@ footer .copyrights{
 }
 
 
-
-
 .about{
   padding-bottom: 40px;
+  width: 100%;
 }
 
 .about h2{
@@ -186,7 +185,7 @@ footer .copyrights{
   min-height: 300px;
 }
 
-
+@media (min-width: 1200px) {
 .parentgrid {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
@@ -195,6 +194,43 @@ footer .copyrights{
   grid-row-gap: 15px;
   margin-top: 40px;
 
+  }
+}
+
+.parentgrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  grid-column-gap: 15px;
+  grid-row-gap: 15px;
+  margin-top: 40px;
+
+  }
+
+ 
+
+  @media (min-width: 800px) {
+    .parentgrid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      grid-template-rows: repeat(3, 1fr);
+      grid-column-gap: 15px;
+      grid-row-gap: 15px;
+      margin-top: 40px;
+    
+      }
+    }
+
+@media (min-width: 1200px) {
+  .parentgrid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-column-gap: 15px;
+    grid-row-gap: 15px;
+    margin-top: 40px;
+  
+    }
   }
 
 .t-icon{

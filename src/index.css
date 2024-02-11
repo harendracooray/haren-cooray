@@ -7,8 +7,7 @@ body {
   height: 100vh;
   background-color: white;
   min-height: 100vh;
-  display: table;
- 
+  /* display: table; */
   
 }
 

@@ -1,6 +1,6 @@
 .header {
   background-color: White;
-  height: 140px;
+  /* height: 140px; */
   /* -moz-box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   -webkit-box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); */
@@ -23,7 +23,7 @@
 }
 
 .header .heading{
-  font-size: 30px;
+  font-size: 20px;
   font-weight: 600;
   color: #414141;
   text-align: left;
@@ -33,12 +33,28 @@
   margin-bottom: 0;
 }
 
+@media (min-width: 1200px) {
+  .header .heading{
+    font-size: 30px;
+  }
+}
+
+
+
+
+
+
+@media (min-width: 1200px) {
 .header_wrapper{
   display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  min-height: 150px;
+}
 }
 
 .profile{
-  margin-left: 20px;
+ padding-left: 20px;
   margin-top: 20px;
   width: 50%;
  
@@ -52,9 +68,19 @@
 }
 
 .header_right-column{
-  width: 50%;
-  display: flex;
-  flex-direction: row-reverse; 
+margin-left: 145px;
+margin-bottom: 20px;
+}
+
+@media (min-width: 1200px) {
+  .header_right-column{
+    margin-left: 0;
+    margin-bottom: 0;
+    width: 50%;
+    display: flex;
+    flex-direction: row-reverse; 
+  }
+  
 }
 
 @media (min-width: 1140px) {

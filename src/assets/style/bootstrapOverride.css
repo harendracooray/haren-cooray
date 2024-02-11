@@ -1,14 +1,16 @@
-.accordion {
+.body__container .accordion {
     width: 100%;
-    padding-left: 80px;
-    padding-right: 80px;
+    padding-left:50px;
+    padding-right: 20px;
 }
 
 @media (min-width: 1200px) {
-    .accordion {
+    .body__container  .accordion {
         width: 1140px;
         margin-left: auto;
         margin-right: auto;
+        padding-left:60px;
+        padding-right: 60px;
     }
 }
 
@@ -18,10 +20,30 @@
 
 .accordion-button::before {
     content: "";
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    left: -40px;
+}
+
+@media (min-width: 900px) {
+    .accordion-button::before {
+        content: "";
+        height: 47px;
+        width: 47px;
+        position: absolute;
+        left: -47px;
+    }
+}
+
+@media (min-width: 1200px) {t
+.accordion-button::before {
+    content: "";
     height: 57px;
     width: 57px;
     position: absolute;
     left: -57px;
+}
 }
 
 /* button[aria-expanded="true"]{
@@ -168,10 +190,24 @@
     font-weight: 600;
     color: #727272;
     padding-left: 10px;
-    padding-right: 15px;
-    height: 57px;
+    padding-right: 25px;
+    height: 40px;
     display: flex;
     align-items: center;
+}
+
+
+@media (min-width: 900px) {
+    .accordion button .accordiontitle {
+        height: 47px;
+    }
+}
+
+
+@media (min-width: 1200px) {
+.accordion button .accordiontitle {
+    height: 57px;
+}
 }
 
 
@@ -179,4 +215,9 @@
 .accordion .accordion-item button[aria-expanded="true"] .accordiontitle {
     background-position: left bottom;
     color: white;
+}
+
+.accordion .accordion-button:focus {
+    border: none;
+    box-shadow: none;
 }
