@@ -36,7 +36,7 @@
     }
 }
 
-@media (min-width: 1200px) {t
+@media (min-width: 1200px) {
 .accordion-button::before {
     content: "";
     height: 57px;
@@ -117,6 +117,8 @@
 
 .accordion .accordion-item button[aria-expanded="true"] .accordion-btn {
     background-color: #cccccc;
+    position: relative;
+    top: -66px;
 }
 
 .accordion .accordion-item button[aria-expanded="true"] .chevron-down {

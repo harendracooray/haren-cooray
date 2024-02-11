@@ -64,7 +64,7 @@ function Resume() {
           <article className="post resume_post resume_post_3 even">
             <div className="post_header resume_post_header">
               <div>
-                <h4 className="post_title">Meraki (Cisco)</h4>
+                <h4 className="post_title">Meraki (Cisco) (www.Meraki.com)</h4>
                 <div className="resume_period">
                   <span className="period_from">01.2019 - </span>
                   <span className="period_to">06.2018</span>
@@ -88,7 +88,7 @@ function Resume() {
           <article className="post resume_post resume_post_4 odd">
             <div className="post_header resume_post_header">
               <div>
-                <h4 className="post_title">Ally Bank</h4>
+                <h4 className="post_title">Ally Bank (www.ally.com)</h4>
                 <div className="resume_period">
                   <span className="period_from">05.2018 - </span>
                   <span className="period_to">01.2018</span>
@@ -135,7 +135,7 @@ function Resume() {
           <article className="post resume_post resume_post_1 first even">
             <div className="post_header resume_post_header">
               <div>
-                <h4 className="post_title">Penfed Credit Union</h4>
+                <h4 className="post_title">Penfed Credit Union (www.penfed.org)</h4>
                 <div className="resume_period">
                   <span className="period_from">01.2016 - </span>
                   <span className="period_to period_present">08.2014</span>

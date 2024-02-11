@@ -37,7 +37,7 @@ export default function Header() {
           <div className='my-data' >
             <div>
               <div><span className='label'>Name:</span> <span>Anslem Harendra Cooray</span></div>
-              <div><span className='label'>Addesss:</span> <span>702 Homestead Ln Chadds<br />Ford PA 19317</span></div>
+              <div><span className='label'>Addesss:</span> <span>702 Homestead Ln Chadds Ford PA 19317</span></div>
               <div><span className='label'>Email:</span> <span>Harendra.cooray@gmail.com</span></div>
               <div><span className='label'>Phone:</span> <span>415 341 4597</span></div>
             </div>

@@ -41,6 +41,9 @@ border-bottom: 1px solid #e1e1e1;
   text-align: left;
 }
 
+
+
+
 .resume_post_header>div{
     display: flex;
     flex-direction: row;
@@ -48,13 +51,14 @@ border-bottom: 1px solid #e1e1e1;
     width: 100%;
 }
 
+
 .post_title{
-    width: 70%;
+    width: 60%;
 
 }
 
 .resume_period{
-    width: 30%;
+    width: 40%;
     text-align: right;
 }
 
