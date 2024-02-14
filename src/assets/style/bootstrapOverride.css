@@ -121,6 +121,14 @@
     top: -66px;
 }
 
+@media (min-width: 1200px) {
+    .accordion .accordion-item button[aria-expanded="true"] .accordion-btn {
+        background-color: #cccccc;
+        position: relative;
+        top: 0px;
+    }  
+}
+
 .accordion .accordion-item button[aria-expanded="true"] .chevron-down {
     color: white;
 }
