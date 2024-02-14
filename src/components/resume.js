@@ -7,7 +7,7 @@ function Resume() {
       <div className="category resume_category resume_category_2 odd">
         <div className="category_header resume_category_header">
           <h3 className="category_title">
-            <span className="category_title_icon"></span>EMPLOYMENT
+            <span className="category_title_icon"></span>EMPLOYMENT - Experience at Virtusa last 12 years
           </h3>
         </div>
         <div className="category_body resume_category_body">
@@ -17,7 +17,7 @@ function Resume() {
                 <h4 className="post_title">Spectrum (www.spectrum.com)</h4>
                 <div className="resume_period">
                   <span className="period_from">01.2019 - </span>
-                  <span className="period_to period_present">present</span>
+                  <span className="period_to period_present">12.2023</span>
                 </div>
               </div>
               <h5 className="post_subtitle">SENIOR FRONT END DEVELOPER</h5>
@@ -43,7 +43,7 @@ function Resume() {
                 <h4 className="post_title">Wiley (www.wiley.com)</h4>
                 <div className="resume_period">
                   <span className="period_from">01.2022 - </span>
-                  <span className="period_to period_present">3.2022</span>
+                  <span className="period_to period_present">03.2022</span>
                 </div>
               </div>
               <h5 className="post_subtitle">lead AEM WEB DEVELOPER</h5>
@@ -66,8 +66,9 @@ function Resume() {
               <div>
                 <h4 className="post_title">Meraki (Cisco) (www.Meraki.com)</h4>
                 <div className="resume_period">
-                  <span className="period_from">01.2019 - </span>
-                  <span className="period_to">06.2018</span>
+                  <span className="period_to">06.2018 </span>
+                  <span className="period_from">- 01.2019</span>
+
 
                 </div>
               </div>
@@ -90,8 +91,9 @@ function Resume() {
               <div>
                 <h4 className="post_title">Ally Bank (www.ally.com)</h4>
                 <div className="resume_period">
-                  <span className="period_from">05.2018 - </span>
-                  <span className="period_to">01.2018</span>
+                  <span className="period_to">01.2018 -  </span>
+                  <span className="period_from">05.2018</span>
+
 
                 </div>
               </div>
@@ -116,8 +118,9 @@ function Resume() {
               <div>
                 <h4 className="post_title">People's United Financial</h4>
                 <div className="resume_period">
-                  <span className="period_from">12.2017 - </span>
-                  <span className="period_to">05.2016</span>
+                  <span className="period_to">05.2016 - </span>
+                  <span className="period_from">12.2017</span>
+
                 </div>
               </div>
               <h5 className="post_subtitle">FRONT-END WEB DEVELOPER</h5>
@@ -137,8 +140,9 @@ function Resume() {
               <div>
                 <h4 className="post_title">Penfed Credit Union (www.penfed.org)</h4>
                 <div className="resume_period">
-                  <span className="period_from">01.2016 - </span>
-                  <span className="period_to period_present">08.2014</span>
+                  <span className="period_to period_present">08.2014 - </span>
+                  <span className="period_from">01.2016</span>
+
                 </div>
               </div>
               <h5 className="post_subtitle">ADOBE AEM FRONT END DEVELOPER</h5>
