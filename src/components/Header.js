@@ -14,7 +14,7 @@ export default function Header() {
             <div>
               <h2 className='heading'>HARENDRA COORAY</h2>
               <div class='my-role'>
-                Adobe AEM/Frontend Web Developer
+                Adobe AEM/UI Frontend Web Developer
               </div>
             </div>
           </div>
