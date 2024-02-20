@@ -30,7 +30,7 @@ export default function Skills() {
                     <div className='t-icon'><img src={Image7} alt="Cross Browse" /><div>Cross Browser</div></div>
                     <div className='t-icon'><img src={Image8} alt="Accessibility" /><div>Accessibility</div></div>
                     <div className='t-icon'><img src={Image9} alt="Accessibility" /><div>SEO</div></div>
-                    <div className='t-icon'><img src={Image10} alt="text" /><div>SEO</div></div>
+                    <div className='t-icon'><img src={Image10} alt="text" /><div>Bootstrap</div></div>
                     <div className='t-icon'><img src={Image11} alt="text" /><div>Usability</div></div>
                     <div className='t-icon'><img src={Image12} alt="text" /><div>Communication</div></div>
                     <div className='t-icon'><img src={Image13} alt="text" /><div>MUI</div></div>

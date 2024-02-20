@@ -14,7 +14,7 @@ export default function MovieComp(props) {
 
 
     const getMovieRequest = async () => {
-        const url = `http://www.omdbapi.com/?s=avenger&apikey=4d416406`;
+        const url = `https://www.omdbapi.com/?s=avenger&apikey=4d416406`;
         const response = await fetch(url);
         const responseJson = await response.json();
         setMovies(responseJson.Search);
