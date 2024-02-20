@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/haren-cooray/static/css/main.1f232b2c.css",
-    "main.js": "/haren-cooray/static/js/main.c83139b7.js",
+    "main.js": "/haren-cooray/static/js/main.c80c950b.js",
     "static/js/787.8194513e.chunk.js": "/haren-cooray/static/js/787.8194513e.chunk.js",
     "static/media/wl-site.png": "/haren-cooray/static/media/wl-site.955a1a1447e6a896b56c.png",
     "static/media/wl-site3.png": "/haren-cooray/static/media/wl-site3.20359f95ca2059995fbb.png",
@@ -79,11 +79,11 @@
     "static/media/comp_XF.svg": "/haren-cooray/static/media/comp_XF.a0a4c5f7f1d56952803a81eaaad5ad09.svg",
     "index.html": "/haren-cooray/index.html",
     "main.1f232b2c.css.map": "/haren-cooray/static/css/main.1f232b2c.css.map",
-    "main.c83139b7.js.map": "/haren-cooray/static/js/main.c83139b7.js.map",
+    "main.c80c950b.js.map": "/haren-cooray/static/js/main.c80c950b.js.map",
     "787.8194513e.chunk.js.map": "/haren-cooray/static/js/787.8194513e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f232b2c.css",
-    "static/js/main.c83139b7.js"
+    "static/js/main.c80c950b.js"
   ]
 }
