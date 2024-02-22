@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/haren-cooray/static/css/main.1f232b2c.css",
-    "main.js": "/haren-cooray/static/js/main.c80c950b.js",
+    "main.js": "/haren-cooray/static/js/main.9d739550.js",
     "static/js/787.8194513e.chunk.js": "/haren-cooray/static/js/787.8194513e.chunk.js",
     "static/media/wl-site.png": "/haren-cooray/static/media/wl-site.955a1a1447e6a896b56c.png",
     "static/media/wl-site3.png": "/haren-cooray/static/media/wl-site3.20359f95ca2059995fbb.png",
@@ -19,7 +19,6 @@
     "static/media/pfcard.png": "/haren-cooray/static/media/pfcard.2b139ed60fb4cc2b483c.png",
     "static/media/bcsite2.png": "/haren-cooray/static/media/bcsite2.ae566bdf49d711e5cf74.png",
     "static/media/pfcard2.png": "/haren-cooray/static/media/pfcard2.b8846f8402608d36e221.png",
-    "static/media/IMG_AnslemCooray.jpg": "/haren-cooray/static/media/IMG_AnslemCooray.3f0aa42bd6602244a1a3.jpg",
     "static/media/mainimages.png": "/haren-cooray/static/media/mainimages.82eb0a4e5e6cced38fc2.png",
     "static/media/allysite4.png": "/haren-cooray/static/media/allysite4.672c5d1ad881a7cbb56a.png",
     "static/media/pfsite3.png": "/haren-cooray/static/media/pfsite3.39aa6fcbf74a42f560df.png",
@@ -40,6 +39,7 @@
     "static/media/mr-site5.png": "/haren-cooray/static/media/mr-site5.d498f3f8e1435b0e9729.png",
     "static/media/allysite3.png": "/haren-cooray/static/media/allysite3.8994471ef4d2a237d337.png",
     "static/media/allysite6.png": "/haren-cooray/static/media/allysite6.e44a5d040a9b349ab3b6.png",
+    "static/media/IMG_AnslemCooray.jpg": "/haren-cooray/static/media/IMG_AnslemCooray.c7cba329553dbd6fff3c.jpg",
     "static/media/specrum-card4.png": "/haren-cooray/static/media/specrum-card4.f1674e03de4f55ad8d8b.png",
     "static/media/allysite5.png": "/haren-cooray/static/media/allysite5.42d99c4d29e06919bbe6.png",
     "static/media/specrum-package.png": "/haren-cooray/static/media/specrum-package.455a09ed65ac192f8bc4.png",
@@ -79,11 +79,11 @@
     "static/media/comp_XF.svg": "/haren-cooray/static/media/comp_XF.a0a4c5f7f1d56952803a81eaaad5ad09.svg",
     "index.html": "/haren-cooray/index.html",
     "main.1f232b2c.css.map": "/haren-cooray/static/css/main.1f232b2c.css.map",
-    "main.c80c950b.js.map": "/haren-cooray/static/js/main.c80c950b.js.map",
+    "main.9d739550.js.map": "/haren-cooray/static/js/main.9d739550.js.map",
     "787.8194513e.chunk.js.map": "/haren-cooray/static/js/787.8194513e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f232b2c.css",
-    "static/js/main.c80c950b.js"
+    "static/js/main.9d739550.js"
   ]
 }
