@@ -7,7 +7,7 @@ import About from "./About";
 import { Herobanner } from "./Herobanner";
 import Skills from "./Skills";
 import TabbedModule from '../components/TabbedModule'
-import Resume from "./resume";
+import Resume from "./Resume";
 
 
 
