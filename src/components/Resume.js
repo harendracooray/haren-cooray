@@ -102,7 +102,7 @@ function Resume() {
 
                 </div>
               </div>
-              <h5 className="post_subtitle"> Frontend Application Developer (Adobe AEM)</h5>
+              <h5 className="post_subtitle"> Frontend Application Developer (Adobe AEM)(San Francisco - California )</h5>
             </div>
             <div className="post_description" ><b>Technologies worked with:	</b>
               AEM Sightly, Java Sling Model, AEM Forms, AEM 6.3, Jira, Maven as a build tool, Adobe Analytics,Node JS, Git, TypeScript, Javascript, CSS, HTML.React Js.
@@ -126,13 +126,13 @@ function Resume() {
                 <h4 className="post_title">Ally Bank (www.ally.com)</h4>
                 <div className="resume_period">
                   <span className="period_to">01.2018 -  </span>
-                  <span className="period_from">05.2018</span>
+                  <span className="period_from">06.2018</span>
 
 
                 </div>
               </div>
               <div className="post_description" >Ally Financial Inc. (NYSE: ALLY) is a leading digital financial services company, NMLS ID 3015. Ally Bank, the company's direct banking subsidiary, offers an array of deposit, personal lending and mortgage products and services.</div>
-              <h5 className="post_subtitle">AEM UI DEVELOPER</h5>
+              <h5 className="post_subtitle">Frontend Application Developer (Adobe AEM)(Charlotte - North Carolina)</h5>
             </div>
             <div className="post_body resume_post_body">
               <ul>
@@ -157,7 +157,8 @@ function Resume() {
 
                 </div>
               </div>
-              <h5 className="post_subtitle">FRONT-END WEB DEVELOPER</h5>
+              <h5 className="post_subtitle">Lead Frontend Application
+                Developer (Adobe AEM)(Connecticut)</h5>
             </div>
             <div className="post_body resume_post_body">
               <ul>
@@ -174,12 +175,12 @@ function Resume() {
               <div>
                 <h4 className="post_title">Penfed Credit Union (www.penfed.org)</h4>
                 <div className="resume_period">
-                  <span className="period_to period_present">08.2014 - </span>
-                  <span className="period_from">01.2016</span>
+                  <span className="period_to period_present">08.2015 - </span>
+                  <span className="period_from">12.2016</span>
 
                 </div>
               </div>
-              <h5 className="post_subtitle">ADOBE AEM FRONT END DEVELOPER</h5>
+              <h5 className="post_subtitle">AEM UI Developer (Tyson - Virginia)</h5>
             </div >
             <div className="post_description" >Spectrum is the trade name of Charter Communications, which is widely used by market consumers and commercial cable television channels, internet, telephone, and wireless service providers.</div>
             <div className="post_body resume_post_body">
