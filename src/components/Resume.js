@@ -9,6 +9,8 @@ function Resume() {
           <h3 className="category_title">
             <span className="category_title_icon"></span>EMPLOYMENT - Experience at Virtusa last 14 years
           </h3>
+          <span className="period_from">from Jan - 2010 - Feb - 2024</span>
+
         </div>
         <div className="category_body resume_category_body">
           <article className="post resume_post resume_post_1 first even">
