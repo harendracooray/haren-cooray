@@ -76,6 +76,7 @@ function Resume() {
             </div >
             <div className="post_description" >John Wiley & Sons, Inc., commonly known as Wiley, is an American multinational publishing company that focuses on academic publishing and instructional materials.</div>
             <div className="post_description" >Technologies worked with: AEM Sightly, Java Sling Model, AEM Forms, AEM Authoring, JCR (Java Content Repository) AEM 6.5, Jira, Maven as a build tool. Node JS, Git, Typescript.React Js.</div>
+            <div className="post_description" ><b>WORK SUMMARY  (Modules worked on and Contributions)</b></div>
             <div className="post_body resume_post_body">
               <ul>
                 <li><i class="gg-chevron-right" /><span>Mega menu  - Main menu of spectrum site,</span></li>
@@ -107,6 +108,7 @@ function Resume() {
             <div className="post_description" ><b>Technologies worked with:	</b>
               AEM Sightly, Java Sling Model, AEM Forms, AEM 6.3, Jira, Maven as a build tool, Adobe Analytics,Node JS, Git, TypeScript, Javascript, CSS, HTML.React Js.
             </div>
+            <div className="post_description" ><b>WORK SUMMARY  (Modules worked on and Contributions)</b></div>
 
             <div className="post_body resume_post_body">
               <ul>
@@ -131,9 +133,11 @@ function Resume() {
 
                 </div>
               </div>
-              <div className="post_description" >Ally Financial Inc. (NYSE: ALLY) is a leading digital financial services company, NMLS ID 3015. Ally Bank, the company's direct banking subsidiary, offers an array of deposit, personal lending and mortgage products and services.</div>
               <h5 className="post_subtitle">Frontend Application Developer (Adobe AEM)(Charlotte - North Carolina)</h5>
             </div>
+            <div className="post_description" ><b>Technologies worked with:</b>
+              Node JS, Git, AEM Sightly, AEM Forms, AEM Authoring, AEM 6.4, Jira, Maven as a build tool, Adobe Analytics,	</div>
+            <div className="post_description" ><b>WORK SUMMARY  (Modules worked on and Contributions)</b></div>
             <div className="post_body resume_post_body">
               <ul>
                 <li><i class="gg-chevron-right"></i><span>Create AEM common components.</span></li>
@@ -152,14 +156,18 @@ function Resume() {
               <div>
                 <h4 className="post_title">People's United Financial</h4>
                 <div className="resume_period">
-                  <span className="period_to">05.2016 - </span>
+                  <span className="period_to">05.2017 - </span>
                   <span className="period_from">12.2017</span>
 
                 </div>
               </div>
-              <h5 className="post_subtitle">Lead Frontend Application
-                Developer (Adobe AEM)(Connecticut)</h5>
+              <h5 className="post_subtitle">Lead Frontend Application Developer (Adobe AEM)</h5>
             </div>
+
+            <div className="post_description" ><b>Technologies worked with:	</b>
+              Node JS, Git, Type Script and AEM Sightly, Java Sling Model, AEM Forms, AEM Authoring, JCR (Java Content Repository) AEM 6.3, Jira,		</div>
+            <div className="post_description" ><b>WORK SUMMARY  (Modules worked on and Contributions)</b></div>
+
             <div className="post_body resume_post_body">
               <ul>
                 <li><i class="gg-chevron-right"></i><span>Gathered user requirements, analyzed and wrote functional and technical specifications</span></li>
@@ -182,7 +190,11 @@ function Resume() {
               </div>
               <h5 className="post_subtitle">AEM UI Developer (Tyson - Virginia)</h5>
             </div >
-            <div className="post_description" >Spectrum is the trade name of Charter Communications, which is widely used by market consumers and commercial cable television channels, internet, telephone, and wireless service providers.</div>
+            <div className="post_description" ><b>Technologies worked with:	</b>
+              Node JS, Git, Type Script and AEM Sightly, Java Sling Model, AEM Forms, AEM Authoring, JCR (Java Content Repository) AEM 6.3, Jira,	</div>
+            <div className="post_description" ><b>WORK SUMMARY  (Modules worked on and Contributions)</b></div>
+
+
             <div className="post_body resume_post_body">
               <ul>
                 <li><i class="gg-chevron-right" /><span>Create AEM common components.</span></li>
