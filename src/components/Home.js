@@ -10,6 +10,7 @@ export default function Home() {
 
   return (
     <div className='body__container'>
+
       <AccordionModule />
       <Footer />
     </div>
